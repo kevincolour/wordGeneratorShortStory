@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wordGeneratorShortStory/static/css/main.d7a6e6a7.css",
-    "main.js": "/wordGeneratorShortStory/static/js/main.c2033844.js",
+    "main.js": "/wordGeneratorShortStory/static/js/main.782a90b3.js",
     "static/js/787.e799149c.chunk.js": "/wordGeneratorShortStory/static/js/787.e799149c.chunk.js",
     "index.html": "/wordGeneratorShortStory/index.html",
     "main.d7a6e6a7.css.map": "/wordGeneratorShortStory/static/css/main.d7a6e6a7.css.map",
-    "main.c2033844.js.map": "/wordGeneratorShortStory/static/js/main.c2033844.js.map",
+    "main.782a90b3.js.map": "/wordGeneratorShortStory/static/js/main.782a90b3.js.map",
     "787.e799149c.chunk.js.map": "/wordGeneratorShortStory/static/js/787.e799149c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7a6e6a7.css",
-    "static/js/main.c2033844.js"
+    "static/js/main.782a90b3.js"
   ]
 }
