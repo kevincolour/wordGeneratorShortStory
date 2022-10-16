@@ -20,7 +20,7 @@ function App() {
     }
   }
   const inputref = React.createRef();
-  const [randomWords, setRandomWords] = useState(["cat"]);
+  const [randomWords, setRandomWords] = useState([]);
   return (
     <div className="App">
       <header className="App-header">
