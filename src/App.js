@@ -1,14 +1,21 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import './App.css';
 import React from 'react';
 function App() {
 
+  useEffect(() => {
+    document.title = 'Word Generator !!';
+  });
 
   const handleClick = () => {
+
+
+    
     if (inputref.current.value){
       const StrArray = inputref.current.value.trim(',').split(',');
       const arrayToShow = [];
 
+      console.log(StrArray)
       for (let i = 0; i < 3; i++){
         var item1 = StrArray[Math.floor(Math.random()*StrArray.length)];
         arrayToShow.push(item1);
